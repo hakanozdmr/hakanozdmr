@@ -2,6 +2,11 @@
 <h3 align="center">A passionate Full-stack developer from Turkey</h3>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakanozdmr&show_icons=true&locale=en&layout=compact" alt="hakanozdmr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakanozdmr&show_icons=true&locale=en" alt="hakanozdmr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hakanozdmr&" alt="hakanozdmr" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,10 +20,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanozdmr" alt="hakanozdmr" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakanozdmr&show_icons=true&locale=en&layout=compact" alt="hakanozdmr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakanozdmr&show_icons=true&locale=en" alt="hakanozdmr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hakanozdmr&" alt="hakanozdmr" /></p>
 
 
