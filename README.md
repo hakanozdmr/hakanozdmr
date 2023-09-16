@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakanozdmr&label=Profile%20views&color=0e75b6&style=flat" alt="hakanozdmr" /> </p>
 
-<iframe src="https://hackerrank-badge.herokuapp.com/https://github.com/hakanozdmr?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
-
 <img align="right" height="150" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
 
 <img src="https://www.codewars.com/users/hakanozdmr/badges/large" height="150"  />
