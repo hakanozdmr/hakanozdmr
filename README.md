@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" />
 
-<p <img src="https://komarev.com/ghpvc/?username=hakanozdmr&label=Profile%20views&color=0e75b6&style=flat" alt="hakanozdmr" /> </p>
+<p align="right" <img src="https://komarev.com/ghpvc/?username=hakanozdmr&label=Profile%20views&color=0e75b6&style=flat" alt="hakanozdmr" /> </p>
 
 <img src="https://www.codewars.com/users/hakanozdmr/badges/large" height="150"  />
 
