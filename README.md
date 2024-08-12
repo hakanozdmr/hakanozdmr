@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" height="100%"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" height="400"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakanozdmr&label=Profile%20views&color=0e75b6&style=flat" alt="hakanozdmr" /> </p>
 
